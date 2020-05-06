@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">thp101</string>
+
+    <string-array name="jenis_kelamin">
+        <item>Pilih jenis kelamin</item>
+        <item>laki-laki</item>
+        <item>perempuan</item>
+    </string-array>
+</resources>
